@@ -87,7 +87,7 @@ const wishAs = `${bihu.emoji} ${bihu.as}ৰ ওলগ জনাইছোঁ, ${n
 
 const wishEn = `Happy ${bihu.as}, ${name}!
 May joy, peace and prosperity fill your life.
-Bihu blessings to you and your family! 🙏`;
+Bihu blessings to you and your family!`;
 
 const wishFrom = `—`;
 
